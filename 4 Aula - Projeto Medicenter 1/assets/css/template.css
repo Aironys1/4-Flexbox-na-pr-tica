@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display:flex;
+    justify-content:center;
+    height:120px;
+}
+
+.container{
+    display:flex;
+    width:990px;
+    height: 100px;
+    background-color:rgb(170, 157, 157);
+    justify-content: space-between;
+
+}
+
+
+.logo{
+    background-color:rgb(255, 255, 255);
+    display:flex;
+    align-items: center;
+}
+
+.logo img{
+    width:100px;
+}
